@@ -1,2 +1,5 @@
+master code
+Master switch
+Flash On
 flash turn on 
 flash turn off
