@@ -1,2 +1,3 @@
 master code
-flash turn on 
+Master switch
+Flash On
